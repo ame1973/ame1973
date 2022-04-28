@@ -1,5 +1,8 @@
 🌠 Be positive. Be true. Be kind.
 
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='180'>
+
 ![ame1973](https://komarev.com/ghpvc/?username=ame1973) ![ame1973](https://visitor-badge.glitch.me/badge?page_id=ame1973.profile)
 
 - 👋 Hi, I’m @ame1973 HuanXiang, Jimmy
