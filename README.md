@@ -1,5 +1,7 @@
 🌠 Be positive. Be true. Be kind.
 
+![ame1973](https://komarev.com/ghpvc/?username=ame1973) ![ame1973](https://visitor-badge.glitch.me/badge?page_id=ame1973.profile)
+
 - 👋 Hi, I’m @ame1973 HuanXiang, Jimmy
 - 👀 I’m interested in solving problems with code
 - 🌱 I’m currently learning PHP Laravel, React.js / Vue.js / React Native, Web3 development, CI/CD, etc.
